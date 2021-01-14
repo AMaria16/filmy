@@ -24,4 +24,9 @@ body {
     height: 180px;
     object-fit: cover;
 }
+body.login-form {
+    background-image: url("img/login_bg.png");
+    background-position: center;
+    background-size: cover;
+}
 
